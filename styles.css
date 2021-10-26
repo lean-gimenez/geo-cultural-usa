@@ -66,3 +66,35 @@ ul{
     background-image: url(./img/library.jpg);
     background-position: center;
 }
+
+.picture{
+    height: 20rem;
+    width: 15rem;
+    background-image: url(./img/halyna.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.museumPic{
+    background-image: url(./img/artsMuseum.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 35rem;
+    width: 20rem;
+}
+
+.litPic{
+    background-image: url(./img/litPic.JPG);
+    background-position: center;
+    background-size: cover;
+    height: 20rem;
+    
+}
+
+footer{
+    background-color: rgb(168, 168, 168);
+    font-size: 0.8rem;
+    line-height: 0.5rem;
+    height: fit-content;
+    width: 100%;
+}
