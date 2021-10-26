@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+
+.text-italic{
+    font-style: italic;
+}
+
+.menu{
+    display: inline;
+}
+
+.separator{
+    height: 2rem;
+}
+
+.artsTitle, .museumsTitle{
+    color: white;
+    text-shadow: black 2px 2px 2px;
+}
+.literature{
+    background-image: url(./img/literature.jpg);
+}
+
+.music{
+    background-image: url(./img/music.jpg);
+    background-position: center;
+}
+
+.movies{
+    background-image: url(./img/movies.jpg);
+    background-position: center;
+}
+
+.painting{
+    background-image: url(./img/painting.jpg);
+    background-position: center;
+}
+
+.architecture{
+    background-image: url(./img/architecture.jpg);
+    background-position: center;
+}
+
+.dance{
+    background-image: url(./img/dance.jpg);
+    background-position: center;
+}
+
+.artMuseum{
+    background-image: url(./img/artsMuseum.jpg);
+    background-position: center;
+}
+
+.scienceMuseum{
+    background-image: url(./img/scienceMuseum.jpg);
+    background-position: center;
+}
+
+.libraries{
+    background-image: url(./img/library.jpg);
+    background-position: center;
+}
